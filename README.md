@@ -198,10 +198,6 @@ click on the link to watch project description [video 1](https://www.notion.so/F
 <br/>
 <img src="./images/ksnip_20210211-213256.png" width="100%"/>
 <br/>
-<img src="./images/ksnip_20210211-213304.png" width="100%"/>
-<br/>
-<img src="./images/ksnip_20210211-213317.png" width="100%"/>
-
 
 ## Contributing
 
@@ -209,14 +205,6 @@ This project was created for educational purposes as part of the Microverse web 
 
 Feel free to check the [issues page](https://github.com/rubenpazch/catalogue-of-dog-clothes/issues).
 
-
-## Authors
-
-👤 **Ruben Paz Chuspe**
-
-- Github: [@rubenpazch](https://github.com/rubenpazch)
-- Linkedin: [rubenpch](https://www.linkedin.com/in/rubenpch/)
-- Twitter: [@ChuspePaz](https://twitter.com/ChuspePaz)
 
 ### Show your support
 
