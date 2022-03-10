@@ -1,14 +1,6 @@
-<p align="center">
-    <img src="./images/g839.png"
-        height="230">
-</p>
 
 <p align="center">
-    <h1 align="center"> Hospital Appointment System   </h1>    
-</p>
-
-<p align="center">
-    <h2 align="center"> Web application tablet version to manage hospital appointments</h2>    
+    <h1 align="center"> Hospital El ORO</h1>    
 </p>
 <br />
 
@@ -52,62 +44,19 @@
 
 <br/>
 
-
-Hospital Appointment System is a web application tablet version, this application was build using ROR and <strong>React & Redux</strong> the latest version, includes the ability to register new users, login into the application creating a token session, when we are logged in the application we can select a service (Surgery, Medicine and others), each of the options show different doctors and their attendance availability, finally we can create an appointment for a specific date and service.
-<br/>
-
-### Main Features
-
-- Create a new user
-- Login with token generation
-- Show a list of services as a menu
-- Show carousel list of doctor for each service
-- Show availability for each doctor
-- Create new appointment
-- List of appointment by patient
-
-
-
-<br/>
-
-<img src="./images/animation.gif" width="100%"/>
-
-<br/>
-<br/>
-
 ## Getting Started
 
-This project was built using React and Redux, Ruby and Rails API, it is a web application and for running on your local environment you should follow these guidelines.
-<br/>
-<br/>
+
 **THIS IS THE FRONTEND OF THE APPLICATION AND THE BACKEND IS LOCATED IN THIS LINK** [(backend)](https://github.com/rubenpazch/appointmentAPI)
-<br/>
 
-### Prerequisites
-
-- Ruby & Rails
-- React & Redux
-- Git
-- React Testing Library
-- CSS modules 
-- React Hooks
-- Styled components
-- Axios
 
 ### Setup
 
-The project repository can be found in [GitHub link](https://github.com/rubenpazch/appointment-view/tree/list) or just clone the project using this command. 
-
-
-
 ```
-Using SSH 
-
-# git clone  git@github.com:rubenpazch/appointment-view.git
 
 Using HTTPS
 
-# git clone  https://github.com/rubenpazch/appointment-view.git
+# git clone  https://github.com/efbalcazar/SantaRosa-Hospital.git
 
 ```
 
@@ -160,51 +109,10 @@ To deploy to netlify just push your changes and create a new project inside netl
 
 <b>npm run build or yarn build</b>
 
-
-
-
-
-## Optional Features
-
-+ For this project it was 
-+ stylelint
-+ React Testing Library
-+ CSS modules 
-+ React Hooks
-
-<br/>
-
-## Watch the Live Version
-
-<br/>
-
-click on the link to watch [live version](https://agile-lowlands-59460.herokuapp.com/)
-
-<br/>
-
-click on the link to watch project description [video 1](https://www.notion.so/Final-Capstone-Project-Book-an-Appointment-41ded2ee99ff4fe4becf91acb332ca26)
-
-
-<br/>
-
-## Contributing
-
-This project was created for educational purposes as part of the Microverse web development curriculum; contributing is not accepted.
-
-Feel free to check the [issues page](https://github.com/rubenpazch/catalogue-of-dog-clothes/issues).
-
-
 ### Show your support
 
 Give a ⭐️ if you like this project!
 
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* [Creative Commons ](https://creativecommons.org/licenses/by-nc/4.0/)
-
-* [behance.net ](https://www.behance.net/gallery/24531031/Pimp-my-DOG-Online-store-E-commerse-project)
