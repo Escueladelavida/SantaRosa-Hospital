@@ -187,18 +187,6 @@ click on the link to watch project description [video 1](https://www.notion.so/F
 
 <br/>
 
-
-
-## Screenshots of the App
-
-
-<img src="./images/ksnip_20210211-213005.png" width="100%"/>
-<br/>
-<img src="./images/ksnip_20210211-213240.png" width="100%"/>
-<br/>
-<img src="./images/ksnip_20210211-213256.png" width="100%"/>
-<br/>
-
 ## Contributing
 
 This project was created for educational purposes as part of the Microverse web development curriculum; contributing is not accepted.
